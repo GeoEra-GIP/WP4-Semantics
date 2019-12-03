@@ -3,4 +3,7 @@ A collection of ~2500 geoscientific terms in English (keywords), with unique web
 Deployed in versioned updates according to a governance workflow.
 
 ## version 1.0
+[GeoERA-Keyword-Thesaurus_v1](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_1.0.zip)
+includes a selection of evaluated and compiled vocabularies, mainly from resources like GEMET, INSPIRE or CGI - see our [report](https://geoera.eu/wp-content/uploads/2019/11/D4.2-GeoERA-Keyword-Thesaurus.pdf)
 
+## version 1.1
