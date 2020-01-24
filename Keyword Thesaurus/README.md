@@ -3,7 +3,7 @@ A collection of ~2500 geoscientific terms in English (keywords), with unique web
 Deployed in versioned updates according to a governance workflow.
 A provisional application for testing a semantic search can be found [here](https://schmar00.github.io/semantic-search/)
 
-![test application](/Keyword%20Thesaurus/img/Keyword_TEST_screen.jpg "open test app"  | width=100)
+![test application](/Keyword%20Thesaurus/img/Keyword_TEST_screen.jpg | width=100)
 
 ## version 1.0
 [GeoERA-Keyword-Thesaurus_v1](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_1.0.zip)
