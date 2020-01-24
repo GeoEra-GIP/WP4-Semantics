@@ -6,7 +6,7 @@ A provisional application for **testing a semantic search** can be found **[here
 
 For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/geoera_keyword)**
 
-![test application](/Keyword%20Thesaurus/img/Keyword_TEST_screen2.jpg)
+![test application](/Keyword%20Thesaurus/img/Keyword_TEST_screen2.jpg) ![visualization](/Keyword%20Thesaurus/img/gephi_thumbnail.jpg)
 
 ## version 1.0
 [GeoERA-Keyword-Thesaurus_v1](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_1.0.zip)
