@@ -2,9 +2,9 @@
 A collection of ~2500 geoscientific terms in English (keywords), with unique web addresses (URIs), delivered in RDF format, with translations in different languages, with links to standardized codelists (INSPIRE, GeoSciML, GEMET), thesaurus like modeled in accordance with the search use case and metadata tagging in MICKA. Hosted in an EGDI central repository, online available via web API (Sparql) to drive search systems.
 Deployed in versioned updates according to a governance workflow. See also our GitHub **[project](https://github.com/GeoEra-GIP/WP4-Semantics/projects/1)** or **[PDF](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/img/keywords.pdf)** for overview.
 
-A provisional application for **testing a semantic search** can be found **[here](https://schmar00.github.io/semantic-search/)**
-
-For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/geoera_keyword)**
+A provisional application for **testing a semantic search** can be found **[here](https://schmar00.github.io/semantic-search/)**  
+For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/geoera_keyword)**  
+Both already using v1.1!  
 
 ![test application](/Keyword%20Thesaurus/img/Keyword_TEST_screen2.jpg) ![visualization](/Keyword%20Thesaurus/img/gephi_thumbnail.jpg)
 
