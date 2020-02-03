@@ -108,8 +108,8 @@ alluvial plain, anthropogenic geomorphologic feature, artificial drainage, artif
 global warming, greenhouse effect, ozone layer depletion, sea level rise, climatic change, climate change adaptation, climate change mitigation, climate change impact  
   
 **9) Removed remaining commas or slashes from URIs**  
-http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node
-
+http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node => http://resource.geolba.ac.at/geoera_keyword/oil-gas-and-chemicals-network-node
+ 
 
 
 
