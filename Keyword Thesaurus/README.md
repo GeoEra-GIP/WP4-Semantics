@@ -27,6 +27,7 @@ soil layer type => soil layer
 spatial data service type => spatial data service  
 geographic processing services => spatial data service  
 Pan-European Code for Reporting of Exploration Results, Mineral Resources and Reserves (PERC) => PERC Code  
+freshwater => fresh water
 
 **2) Concepts renamed, URI changed, and preserved name as hiddenLabel:**  
 exposed element category => exposed element  
