@@ -7,6 +7,6 @@ see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11
 
 ## links, examples
 * a structural geological concept **[Mur-Mürz-Vienna Basin-Vah Large-scale Fault System](https://thesaurus.geolba.ac.at/?uri=http://resource.geolba.ac.at/structure/186&lang=en)**, composed of the individual faults parts and displayed on a **[web map](https://thesaurus.geolba.ac.at/structureViewer.html?uri=http://resource.geolba.ac.at/structure/186&lang=en)**  
-[<img src="webmap.jpg">](https://thesaurus.geolba.ac.at/structureViewer.html?uri=http://resource.geolba.ac.at/structure/186&lang=en width=100)
+[<img src="webmap.jpg">](https://thesaurus.geolba.ac.at/structureViewer.html?uri=http://resource.geolba.ac.at/structure/186&lang=en width=70px)
 * a **[WMS map](http://www.ce-gic.org/wms/GBA_structures_2.html)** with clickable fault lines displaying mixed (WMS plus Linked Data) content in a pop up window
 
