@@ -116,10 +116,10 @@ http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node 
 **1) new URIs according to new EGS domain name:**  
 All keyword concepts have got new identifiers based on the new domain name **"data.geoscience.earth"** registered by EGS. URI patterns are adapted to the naming conventions of geoscience.earth host. E.g. for the keyword ***hazard*** the URI was changed from previous testing environment ***http://resource.geolba.ac.at/geoera_keyword/hazard*** to ***https://data.geoscience.earth/geoera/keyword/1358***. The previous URIs remain in the Keyword Thesaurus to query with property "http://purl.org/dc/terms/replaces". As soon as the Keyword Thesaurus is in the registry all URIs will be resolvable at data.geoscience.earth. Meanwhile and for testing purposes we provide a Sparql endpoint to query the data base (triple store).
 
-**2)Fully translated into Slovenian, Spanish and German language:**  
+**2) Fully translated into Slovenian, Spanish and German language:**  
 Initially the Keyword Thesaurus is already available in 4 languages. In some cases, no translation was carried out. Especially for abbreviations in international context.
 
-**3)All previous changes included:**
+**3) All previous changes included:**
 The Keyword Thesaurus now contains all modifications as described under v1.1 above.
 
 
