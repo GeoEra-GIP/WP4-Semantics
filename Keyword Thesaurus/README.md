@@ -2,7 +2,7 @@
 A collection of ~2500 geoscientific terms in English (keywords), with unique web addresses (URIs), delivered in RDF format, with translations in different languages, with links to standardized codelists (INSPIRE, GeoSciML, GEMET), thesaurus like modeled in accordance with the search use case and metadata tagging in MICKA. Hosted in an EGDI central repository, online available via web API (Sparql) to drive search systems.
 Deployed in versioned updates according to a governance workflow. See also our GitHub **[project](https://github.com/GeoEra-GIP/WP4-Semantics/projects/1)** or **[PDF](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/img/keywords.pdf)** for overview.
 
-A provisional application for **testing a semantic search** can be found **[here](https://schmar00.github.io/semantic-search/)**  
+~~A provisional application for **testing a semantic search** can be found **[here](https://schmar00.github.io/semantic-search/)**~~  
 For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/keyword)**  
 Both already using v2.0!  
 
@@ -114,6 +114,7 @@ http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node 
 ## version 2.0
 **release notes (10.3.2020):**  
 download [GeoERA Keyword Thesaurus v2.0](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_v2.zip)  
+  
 **1) new URIs according to new EGS domain name:**  
 All keyword concepts have got new identifiers based on the new domain name **"data.geoscience.earth"** registered by EGS. URI patterns are adapted to the naming conventions of geoscience.earth host. E.g. for the keyword ***hazard*** the URI was changed from previous testing environment ***http://resource.geolba.ac.at/geoera_keyword/hazard*** to ***https://data.geoscience.earth/ncl/geoera/keyword/1358***. The previous URIs remain in the Keyword Thesaurus to query with property "http://purl.org/dc/terms/replaces". As soon as the Keyword Thesaurus is in the registry all URIs will be resolvable at data.geoscience.earth. Meanwhile and for testing purposes we provide a [Sparql endpoint](https://resource.geolba.ac.at/PoolParty/sparql/keyword) to query the data base (triple store).
 
