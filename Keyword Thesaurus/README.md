@@ -122,7 +122,10 @@ All keyword concepts have got new identifiers based on the new domain name **"da
 Initially the Keyword Thesaurus is already available in 4 languages. In some cases, no translation was carried out. Especially for abbreviations in international context.
 
 **3) All previous changes included:**  
-The Keyword Thesaurus now contains all modifications as described under v1.1 above.
+The Keyword Thesaurus now contains all modifications as described under v1.1 above.  
+
+**4) All concepts under a single concept scheme:**  
+Now all concepts are modelled under a single concepts scheme "keyword". Search categories are properties (dbPedia/category attributes) of almost each concept.  
 
 
 
