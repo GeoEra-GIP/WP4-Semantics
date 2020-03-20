@@ -112,9 +112,9 @@ global warming, greenhouse effect, ozone layer depletion, sea level rise, climat
 http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node => http://resource.geolba.ac.at/geoera_keyword/oil-gas-and-chemicals-network-node
  
 ## version 2.0
-**release notes (10.3.2020):**  
-download [GeoERA Keyword Thesaurus v2.0](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Keyword%20Thesaurus/GeoERA-Keyword-Thesaurus_v2.zip)  
-  
+**release notes (20.3.2020):**  
+download lates version of [GeoERA Keyword Thesaurus v2.0](https://data.geoscience.earth/ncl/geoera/keyword) directly from **European Geoscience Registry** at https://data.geoscience.earth/ncl/geoera/keyword  
+
 **1) new URIs according to new EGS domain name:**  
 All keyword concepts have got new identifiers based on the new domain name **"data.geoscience.earth"** registered by EGS. URI patterns are adapted to the naming conventions of geoscience.earth host. E.g. for the keyword ***hazard*** the URI was changed from previous testing environment ***http://resource.geolba.ac.at/geoera_keyword/hazard*** to ***https://data.geoscience.earth/ncl/geoera/keyword/1358***. The previous URIs remain in the Keyword Thesaurus to query with property "http://purl.org/dc/terms/replaces". As soon as the Keyword Thesaurus is in the registry all URIs will be resolvable at data.geoscience.earth. Meanwhile and for testing purposes we provide a [Sparql endpoint](https://resource.geolba.ac.at/PoolParty/sparql/keyword) to query the data base (triple store).
 
@@ -125,7 +125,7 @@ Initially the Keyword Thesaurus is already available in 4 languages. In some cas
 The Keyword Thesaurus now contains all modifications as described under v1.1 above.  
 
 **4) All concepts under a single concept scheme:**  
-Now all concepts are modelled under a single concepts scheme "keyword". Search categories are properties (dbPedia/category attributes) of almost each concept.  
+Now all concepts are modelled under a single concepts scheme "keyword". Search categories are available as properties (dbPedia/category attributes) of almost each concept. Additionally Search categories have been changed from concept schemes in v1 to top concepts in v2.
 
 
 
