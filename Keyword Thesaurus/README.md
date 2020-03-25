@@ -130,7 +130,7 @@ The Keyword Thesaurus now contains all modifications as described under v1.1 abo
 Now all concepts are modelled under a single concepts scheme "keyword". Search categories are available as properties (dbPedia/category attributes) of almost each concept. Additionally Search categories have been changed from concept schemes in v1 to top concepts in v2.
 
 **5) How to query a list of all keywords:**
-Here an example how to get a table of all GeoERA keywords with URIs and translations into a selected language. For available languages see ..
+Here an example how to get a table of all GeoERA keywords with URIs and translations into a selected language. Available languages are en, cs, da, el, de, es, et, fi, fr, hr, hu, is, it, lt, nl, no, pl, pt, ro, sk, sl, sv, uk.
 
 The European Geoscience Registry shows the GeoERA Keyword Thesaurus v2 at https://data.geoscience.earth/ncl/geoera/keyword. By clicking around you should be able to navigate to each single keyword. But there also a link to download a list of all available keywords in different formats. On the upper left you find download links in ttl, rdf/xml or json-ld. If you open the Sparql query form at https://data.geoscience.earth/ncl/ui/sparql-form you can run a query script to show the results in table, txt, json or xml. 
 This code example below would generate a list of all keywords with URI and translations in Finnish (as many as already translated). If you want to fill the column in another language lets say Portuguese just change the filter for “**fi**” to “**pt**”.
