@@ -136,7 +136,8 @@ The European Geoscience Registry shows the GeoERA Keyword Thesaurus v2 at https:
 This code example below would generate a list of all keywords with URI and translations in Finnish (as many as already translated). If you want to fill the column in another language lets say Portuguese just change the filter for “**fi**” to “**pt**”.
 
 ```prefix skos: <http://www.w3.org/2004/02/skos/core#>  
-select distinct ?uri (str(?k) as ?keyword) (str(?t) as ?translation) (group_concat(?c;separator="; ") as ?categories)  
+select distinct ?uri (str(?k) as ?keyword) (str(?t) as ?translation)  
+(group_concat(?c;separator="; ") as ?categories)  
 where {  
 ?uri a skos:Concept; skos:prefLabel ?k  
 filter(regex(str(?uri), 'ncl/geoera/keyword'))  
