@@ -135,17 +135,17 @@ Here an example how to get a table of all GeoERA keywords with URIs and translat
 The European Geoscience Registry shows the GeoERA Keyword Thesaurus v2 at https://data.geoscience.earth/ncl/geoera/keyword. By clicking around you should be able to navigate to each single keyword. But there also a link to download a list of all available keywords in different formats. On the upper left you find download links in ttl, rdf/xml or json-ld. If you open the Sparql query form at https://data.geoscience.earth/ncl/ui/sparql-form you can run a query script to show the results in table, txt, json or xml. 
 This code example below would generate a list of all keywords with URI and translations in Finnish (as many as already translated). If you want to fill the column in another language lets say Portuguese just change the filter for “fi” to “pt”.
 
-prefix skos: <http://www.w3.org/2004/02/skos/core#>
-select distinct ?uri (str(?k) as ?keyword) (str(?t) as ?translation) (group_concat(?c;separator="; ") as ?categories)
-where {
-?uri a skos:Concept; skos:prefLabel ?k
-filter(regex(str(?uri), 'ncl/geoera/keyword'))
-filter(lang(?k)="en")
-optional{?uri skos:prefLabel ?t filter(lang(?t)="fi")}
-optional{?uri <http://dbpedia.org/ontology/category> ?c}
-}
-group by ?uri ?k ?t
-order by desc (?t)
+```prefix skos: <http://www.w3.org/2004/02/skos/core#>  
+select distinct ?uri (str(?k) as ?keyword) (str(?t) as ?translation) (group_concat(?c;separator="; ") as ?categories)  
+where {  
+?uri a skos:Concept; skos:prefLabel ?k  
+filter(regex(str(?uri), 'ncl/geoera/keyword'))  
+filter(lang(?k)="en")  
+optional{?uri skos:prefLabel ?t filter(lang(?t)="fi")}  
+optional{?uri <http://dbpedia.org/ontology/category> ?c}  
+}  
+group by ?uri ?k ?t  
+order by desc (?t)```
 
 Scripts like above also could be embedded into URLs in order to get a file downloaded. This method provides some different useful formats like CSV. 
 
