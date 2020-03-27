@@ -11,7 +11,8 @@ see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11
 * a **[WMS map](http://www.ce-gic.org/wms/GBA_structures_2.html)** with clickable fault lines displaying mixed (WMS plus Linked Data) content in a pop up window  
 
 ## workflow  
-Following table shows the differences between the creation of codelists versus GeoERA project vocabularies in relation to official INSPIRE codelists or extensions.    
-[<img src="C5B26460-1390-47CF-BFC7-9A2C5581B44A.jpeg" width="400px">](https://thesaurus.geolba.ac.at/structureViewer.html)  
+Following table shows the differences between the creation of codelists versus GeoERA project vocabularies in relation to official INSPIRE codelists or extensions.  
+  
+[<img src="C5B26460-1390-47CF-BFC7-9A2C5581B44A.jpeg" width="400px">](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Project%20Vocabularies/GeoERA%20Vocabularies%20Workflow.pdf)  
 
 
