@@ -12,6 +12,6 @@ see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11
 
 ## workflow  
 Following table shows the differences between the creation of codelists versus GeoERA project vocabularies in relation to official INSPIRE codelists or extensions.    
-[<img src="webmap.jpg" width="200px">](https://thesaurus.geolba.ac.at/structureViewer.html)  
+[<img src="C5B26460-1390-47CF-BFC7-9A2C5581B44A.jpeg" width="400px">](https://thesaurus.geolba.ac.at/structureViewer.html)  
 
 
