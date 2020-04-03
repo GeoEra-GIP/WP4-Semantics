@@ -115,7 +115,7 @@ http://resource.geolba.ac.at/geoera_keyword/oil,-gas-and-chemicals-network-node 
  
 ## version 2.0
 **release notes (20.3.2020):**  
-download lates version of [GeoERA Keyword Thesaurus v2.0](https://data.geoscience.earth/ncl/geoera/keyword) directly from **European Geoscience Registry** at https://data.geoscience.earth/ncl/geoera/keyword  
+download lates version of **GeoERA Keyword Thesaurus** v2.0 from this GitHub page or directly from **European Geoscience Registry** at https://data.geoscience.earth/ncl/geoera/keyword  
 
 **1) new URIs according to new EGS domain name:**  
 All keyword concepts have got new identifiers based on the new domain name **"data.geoscience.earth"** registered by EGS. URI patterns are adapted to the naming conventions of geoscience.earth host. E.g. for the keyword ***hazard*** the URI was changed from previous testing environment ***http://resource.geolba.ac.at/geoera_keyword/hazard*** to ***https://data.geoscience.earth/ncl/geoera/keyword/1358***. The previous URIs remain in the Keyword Thesaurus to query with property "http://purl.org/dc/terms/replaces". As soon as the Keyword Thesaurus is in the registry all URIs will be resolvable at data.geoscience.earth. Meanwhile and for testing purposes we provide a [Sparql endpoint](https://resource.geolba.ac.at/PoolParty/sparql/keyword) to query the data base (triple store).
