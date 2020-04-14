@@ -155,7 +155,8 @@ Scripts like above also could be (url encoded) embedded into URLs in order to ge
 https://data.geoscience.earth/ncl/system/query?query=prefix%20skos%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23%3E%0Aselect%20distinct%20%3Furi%20%28str%28%3Fk%29%20as%20%3Fkeyword%29%20%28str%28%3Ft%29%20as%20%3Ftranslation%29%20%28group_concat%28%3Fc%3Bseparator%3D%22%3B%20%22%29%20as%20%3Fcategories%29%0Awhere%20%7B%0A%3Furi%20a%20skos%3AConcept%3B%20skos%3AprefLabel%20%3Fk%0Afilter%28regex%28str%28%3Furi%29%2C%20%27ncl%2Fgeoera%2Fkeyword%27%29%29%0Afilter%28lang%28%3Fk%29%3D%22en%22%29%0Aoptional%7B%3Furi%20skos%3AprefLabel%20%3Ft%20filter%28lang%28%3Ft%29%3D%22fi%22%29%7D%0Aoptional%7B%3Furi%20%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Fcategory%3E%20%3Fc%7D%0A%7D%0Agroup%20by%20%3Furi%20%3Fk%20%3Ft%0Aorder%20by%20desc%20%28%3Ft%29&format=text/csv
 
 **Note**: special characters are always coded to utf-8 standard. Do not mistake with ANSI.  
-
+   
+   
 ## version 2.1
 **release notes (draft):**  
 
