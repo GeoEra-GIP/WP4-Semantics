@@ -159,6 +159,18 @@ https://data.geoscience.earth/ncl/system/query?query=prefix%20skos%3A%20%3Chttp%
    
 ## version 2.1
 **release notes (draft):**  
+**1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
+mineral occurence (1204) => mineral occurrence (1195) - misspelling  
+
+**2) Concepts renamed, URI changed, and preserved name as hiddenLabel:**  
+**3) Concepts only renamed**  
+**4) Concepts deleted without substitution**  
+**5) Concepts newly created**  
+**6) New skos:broader**  
+**7) New search category**  
+**8) Correction of "displaced" INSPIRE mappings for ..**  
+**Correction of "displaced" GEMET mappings for ..**  
+
 
 
 
