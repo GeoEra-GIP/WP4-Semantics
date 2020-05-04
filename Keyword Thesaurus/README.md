@@ -164,6 +164,10 @@ mineral occurence (1204) => mineral occurrence (1195) - misspelling
 
 **2) Concepts renamed, URI changed, and preserved name as hiddenLabel:**  
 **3) Concepts only renamed**  
+acidic igeous rock (53) -> acidic igneous rock
+arkoze -> arkose (88)
+foid diorte (13) -> foid diorite  
+
 **4) Concepts deleted without substitution**  
 **5) Concepts newly created**  
 **6) New skos:broader**  
