@@ -167,6 +167,7 @@ mineral occurence (1204) => mineral occurrence (1195) - misspelling
 acidic ingeous rock (53) -> acidic igneous rock  
 arkoze -> arkose (88)  
 foid diorte (13) -> foid diorite  
+intergrated hydrological modelling (2477) -> integrated hydrological modelling  
 
 **4) Concepts deleted without substitution**  
 **5) Concepts newly created**  
