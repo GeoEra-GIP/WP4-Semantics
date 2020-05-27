@@ -173,8 +173,10 @@ intergrated hydrological modelling (2477) -> integrated hydrological modelling
 **5) Concepts newly created**  
 **6) New skos:broader**  
 **7) New search category**  
-**8) Correction of "displaced" INSPIRE mappings for ..**  
-**Correction of "displaced" GEMET mappings for ..**  
+**8) Correction of "displaced" mappings**  
+**9) download a graphical display of v2.1**  
+https://github.com/GeoEra-GIP/WP4-Semantics/raw/master/Keyword%20Thesaurus/img/keywords_v21.pdf  
+
 
 
 
