@@ -4,15 +4,19 @@ Project vocabularies provide the opportunity to clarify expert knowledge and ter
 A provisional application for **testing project vocabularies** can be found **[here](https://schmar00.github.io/project-vocabularies/)**  
 For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/geoera)**  
 see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11/D4.3-GeoERA-Project-Vocabularies.pdf)**
-
+  
+## Workflow, governance  
+If your project plan is to **extend INSPIRE codeLists** officially you can choose between 2 workflows:  
+A) create a project vocabulary first to clarify semantic relations, definitions and bibliographic references. Then define the whole project vocabulary or parts of it to register for INSPIRE (federated registers). For modeling reasons and support it is important to know about intended codelist extensions from the beginning!  
+or  
+B) directly communicate to the "European Geoscience Registry" about intended extensions of codeLists and other standards. This workflow might have additional restrictions related to the kind of data which is intended to be registered.  
+  
+Following table shows the differences between the creation of codelists versus GeoERA project vocabularies in relation to official INSPIRE codelists or extensions.  
+  
+[<img src="C5B26460-1390-47CF-BFC7-9A2C5581B44A.jpeg" width="400px">](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Project%20Vocabularies/GeoERA%20Vocabularies%20Workflow.pdf)  
+  
 ## links, examples
 * a structural geological concept **[Mur-Mürz-Vienna Basin-Vah Large-scale Fault System](https://thesaurus.geolba.ac.at/?uri=http://resource.geolba.ac.at/structure/186&lang=en)**, composed of the individual faults parts and displayed on a **[web map](https://schmar00.github.io/gba-thesaurus/structureViewer.html?uri=http://resource.geolba.ac.at/structure/186&lang=en)**  
 [<img src="webmap.jpg" width="200px">](https://schmar00.github.io/gba-thesaurus/structureViewer.html?uri=http://resource.geolba.ac.at/structure/186&lang=en)
 * a **[WMS map](http://www.ce-gic.org/wms/GBA_structures_2.html)** with clickable fault lines displaying mixed (WMS plus Linked Data) content in a pop up window  
-
-## workflow  
-Following table shows the differences between the creation of codelists versus GeoERA project vocabularies in relation to official INSPIRE codelists or extensions.  
-  
-[<img src="C5B26460-1390-47CF-BFC7-9A2C5581B44A.jpeg" width="400px">](https://github.com/GeoEra-GIP/WP4-Semantics/blob/master/Project%20Vocabularies/GeoERA%20Vocabularies%20Workflow.pdf)  
-
 
