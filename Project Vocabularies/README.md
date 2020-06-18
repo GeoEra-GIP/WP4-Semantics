@@ -7,7 +7,7 @@ see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11
   
 ## Workflow, governance  
 If your project plan is to **extend INSPIRE codeLists** officially you can choose between 2 workflows:  
-A) create a project vocabulary first to clarify semantic relations, definitions and bibliographic references. Then define the whole project vocabulary or parts of it to register for INSPIRE (federated registers). For modeling reasons and support it is important to know about intended codelist extensions from the beginning!  
+A) create a project vocabulary first to clarify semantic relations, definitions and bibliographic references. Therefore please use a **[template](https://github.com/GeoEra-GIP/WP4-Semantics/raw/master/Project%20Vocabularies/templates/PV_template_v3.zip)**. Then define the whole project vocabulary or parts of it to register for INSPIRE (federated registers). For modeling reasons and support it is important to know about intended codelist extensions from the beginning!  
 or  
 B) directly communicate to the "European Geoscience Registry" about intended extensions of codeLists and other standards. This workflow might have additional restrictions related to the kind of data which is intended to be registered.  
   
