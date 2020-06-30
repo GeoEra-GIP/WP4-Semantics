@@ -7,6 +7,7 @@ Project vocabularies provide the opportunity to clarify expert knowledge and ter
 * For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/geoera)**  
 * see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11/D4.3-GeoERA-Project-Vocabularies.pdf)**
 <div style="clear:both;"></div>  
+* if you need support **[mailto](mailto:martin.schiegl@geologie.ac.at)**  
   
   
 ## Workflows and governance  
@@ -24,10 +25,10 @@ Project vocabularies provide the opportunity to clarify expert knowledge and ter
 | Define relations between **vocabularies** and other web resources, workflows, **governance**, maintenance  | Knowledge graph (more or less) |  
 
 
-If your project plan is to **extend INSPIRE codeLists** officially you can choose between 2 workflows:  
-* create a project vocabulary first to clarify semantic relations, definitions and bibliographic references. Therefore please use a **[template](https://github.com/GeoEra-GIP/WP4-Semantics/raw/master/Project%20Vocabularies/templates/PV_template_v3.zip)**. Then define the whole project vocabulary or parts of it to register for INSPIRE (federated registers). For modeling reasons and support it is important to know about intended codelist extensions from the beginning!  
+If your project plan is just to **extend INSPIRE codeLists** in an official way you can choose between 2 workflows:  
+a) create a project vocabulary first to clarify semantic relations, definitions and bibliographic references. Therefore please use a **[template](https://github.com/GeoEra-GIP/WP4-Semantics/raw/master/Project%20Vocabularies/templates/PV_template_v3.zip)**. Then define the whole project vocabulary or parts of it to register for INSPIRE (federated registers). For modeling reasons and support it is important to know about intended codelist extensions from the beginning!  
 or  
-* directly communicate to the "European Geoscience Registry" about intended extensions of codeLists and other standards. This workflow might have additional restrictions related to the kind of data which is intended to be registered.  
+b) directly communicate to the "European Geoscience Registry" about intended extensions of codeLists and other standards. This workflow might have additional restrictions related to the kind of data which is intended to be registered.  
   
 Following table shows the differences between the creation of codelists only (blue) versus GeoERA project vocabularies (red) in relation to official INSPIRE codelists or extensions.  
   
