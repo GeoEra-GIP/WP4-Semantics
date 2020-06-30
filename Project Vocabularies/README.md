@@ -8,10 +8,8 @@ Project vocabularies provide the opportunity to clarify expert knowledge and ter
 * see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11/D4.3-GeoERA-Project-Vocabularies.pdf)**
 <div style="clear:both;"></div>  
   
-    
-      
-    
-## Workflow, governance  
+  
+## Workflows and governance  
 
 | Design steps | Results |
 | --- | --- |
