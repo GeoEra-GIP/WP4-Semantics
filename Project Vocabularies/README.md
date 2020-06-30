@@ -8,7 +8,7 @@ Project vocabularies provide the opportunity to clarify expert knowledge and ter
 * see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11/D4.3-GeoERA-Project-Vocabularies.pdf)**
 * if you need support **[mailto](mailto:martin.schiegl@geologie.ac.at)** me  
 <div style="clear:both;"></div>  
-
+<br><br>
   
 ## Workflows and governance  
 
