@@ -158,12 +158,13 @@ https://data.geoscience.earth/ncl/system/query?query=prefix%20skos%3A%20%3Chttp%
    
    
 ## version 2.1
-**release notes (draft):**  
+**release notes:**  
 **1) Concepts merged, URI voided, and preserved names as hiddenLabel:**  
 mineral occurence (1204) => mineral occurrence (1195) - misspelling  
 geophysical measurement (377) => geophysical measurement (405) - double entry  
 
 **2) Concepts renamed, URI changed, and preserved name as hiddenLabel:**  
+none  
 **3) Concepts only renamed**  
 acidic ingeous rock (53) -> acidic igneous rock  
 arkoze -> arkose (88)  
@@ -171,14 +172,19 @@ foid diorte (13) -> foid diorite
 intergrated hydrological modelling (2477) -> integrated hydrological modelling  
 
 **4) Concepts deleted without substitution**  
+none  
 **5) Concepts newly created**  
 almost all new concepts were created in relation to the HIKE project to support the "Knowledge Sharepoint":  
 Please find more details to this HIKE specific extension on https://gist.github.com/schmar00/ee728afd38969097d80c918a3a436dff   
   
 helium (2561), Instaneous deformation (2562), facility failure (2563), explosions (2564), fluid spills (2565), leakage and migration along constrained path (2566), leakage and migration along unconstrained path (2567), Critical facilities out of use or malfunction (2568), Disruption of transportation (2569), Employment rate (2570), Biosphere impacts (2571), Atmospheric Impacts (2572), Anthropogenic causes (2573), Unconventional oil production (2574), Water production (2575), injection (2576), Fracking (2577), EOR (2578), Cyclic injection and extraction (2579), Geothermal doublet production (2580), Hydrogen storage (2581), Natural gas storage (2582), Nitrogen storage (2583), Compressed air energy storage (2584), engineering activities (2585), tunnel building (2586), solid earth (2587), rock falls (2588), atmospheric causes (2589), lightening (2590), interpreted datasets (2591), case studies (2592), instruments (2593), regional geological definitions (2594), basins (2595), oregenies (2596), shields (2597), stratigraphy (2598)  
+  
 **6) New skos:broader**  
+none  
 **7) New search category**  
+none  
 **8) Correction of "displaced" mappings**  
+none  
 **9) download a graphical display of v2.1**  
 https://github.com/GeoEra-GIP/WP4-Semantics/raw/master/Keyword%20Thesaurus/img/keywords_v21.pdf  
 
