@@ -6,7 +6,7 @@ Project vocabularies provide the opportunity to clarify expert knowledge and ter
 * A provisional application for **testing Project Vocabularies** can be found **[here](https://schmar00.github.io/project-vocabularies/)**  
 * For testing database queries with **SparQl** you can use this **[endpoint](https://resource.geolba.ac.at/PoolParty/sparql/geoera)**  
 * see also our **[report deliverable](https://geoera.eu/wp-content/uploads/2019/11/D4.3-GeoERA-Project-Vocabularies.pdf)**
-* if you need support **[mailto](mailto:martin.schiegl@geologie.ac.at)** me  
+* if you need support **[mailto](mailto:martin.schiegl@geosphere.at)** me  
 <div style="clear:both;"></div>  
 <br><br><br>
   
