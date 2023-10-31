@@ -7,3 +7,7 @@
 https://github.com/schmar00/project-vocabularies 
 
 https://github.com/schmar00/semantic-search
+
+# published at  
+[![DOI](https://zenodo.org/badge/168712415.svg)](https://zenodo.org/doi/10.5281/zenodo.10057196)
+
